@@ -6,8 +6,8 @@
 
 ## 🚀 Overview
 
-Skin conditions often go untreated due to lack of awareness or delayed access to specialists. **Sparsha** (meaning "Touch") makes skin health monitoring accessible. By combining high-accuracy CNN models with **Explainable AI (XAI)**, we ensure that our diagnosis isn't just a prediction, but a transparent process that users can trust.
-
+Skin conditions often go untreated due to lack of awareness or delayed access to specialists. **Sparsha** (meaning "Touch") makes skin health monitoring accessible. By combining high-accuracy CNN models with **Explainable AI (XAI)**, we ensure that our diagnosis isn't just a prediction, but a transparent process that users can trust.<br>
+[Click here to view the Demo](https://bandosmonkies.github.io/Skin-Disease-Detection/)
 ### 📊 Key Performance Metrics
 * **70% Accuracy Rate:** Driven by medical-grade datasets.
 * **23+ Skin Conditions:** Capable of detecting a wide spectrum of dermatological issues.
@@ -54,3 +54,4 @@ Skin conditions often go untreated due to lack of awareness or delayed access to
   <b>Developed @ PES University</b><br>
   <i>Center for Innovation & Entrepreneurship (CIE)</i>
 </p>
+

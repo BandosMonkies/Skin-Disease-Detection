@@ -1,8 +1,5 @@
 # 🩺 Sparsha: Your Skin Health, Decoded by AI
 
-![Sparsha Banner](https://img.shields.io/badge/Project-Machine_Learning-teal?style=for-the-badge)
-![PES University](https://img.shields.io/badge/Workshop-CIE_PESU-blue?style=for-the-badge)
-
 **Sparsha** is an advanced dermatological screening platform designed to bridge the gap between AI-driven early detection and professional medical consultation. Developed as a group project during the **Machine Learning Workshop** hosted by **CIE, PES University**.
 
 ---
@@ -45,17 +42,6 @@ Skin conditions often go untreated due to lack of awareness or delayed access to
 2.  **Image Processing:** The uploaded image is passed through our **CNN models**.
 3.  **Heatmap Generation:** **Grad-CAM** highlights the specific texture or pigment patterns identified by the AI.
 4.  **Actionable Insights:** The system provides a diagnosis, treatment guidance, and a map of nearby doctors if professional help is needed.
-
----
-
-## 👥 The Team
-
-This project was developed with passion by our team at the **CIE PES University Machine Learning Workshop**.
-
-* **Team Member 1** - *ML Modeling & Architecture*
-* **Team Member 2** - *Frontend & UI/UX Design*
-* **Team Member 3** - *Backend & Database Management*
-* **Team Member 4** - *Data Preprocessing & Research*
 
 ---
 
